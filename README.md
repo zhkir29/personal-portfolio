@@ -1,7 +1,6 @@
 
 # Personal Portfolio
-
-
+Live : https://zakir-hs.vercel.app/
 ## Objective
 
 A motivated individual with in-depth knowledge of programming languages, especially JavaScript and development tools. I am skilled & experienced in both Front-end and Back-end Web Development, seeking a position as a Web Developer in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.
